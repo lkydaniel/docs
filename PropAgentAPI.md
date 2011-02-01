@@ -4,7 +4,7 @@ PropAgent HTTP API
 
 ## To create account
 
-http://meshared.dynds.org:8567/CreateAccount?email=somnath@synptify.com&password=xxx
+http://meshare.dynds.org:8567/CreateAccount?email=somnath@synptify.com&password=xxx
 
 **Note** that password is optional and the proper HTTP type should be post.
 
